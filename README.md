@@ -1,10 +1,10 @@
 # Installation
 ```
 # Clone the repository to your computer
-git clone https://github.com/ondrejhonus/kube_project_docker
+git clone https://github.com/alesvcelka1/kube_flask
 
 # Enter the directory
-cd kube_project_docker
+cd kube_flask
 
 # Create a virtual enviroment .venv
 python -m venv .venv
